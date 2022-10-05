@@ -1,11 +1,13 @@
 ## Hi, I am Atakan Onol! Great to see I've caught someone's interest! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Atakan Onol, currently pursuing my Bachelor in Computer Engineering at Middle East Technical University. 
-I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. 
-Find out more about me & feel free to connect with me here:
+I am Atakan Onol, currently pursuing my Bachelor in Computer Engineering at Middle East Technical University while also working full time
+as a computer engineer.
+Feel free to reach out to me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Atakan%20Onol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atakan-onol-547427160//)](https://www.linkedin.com/in/atakan-onol-547427160//)
 [![Gmail Badge](https://img.shields.io/badge/-atakan16@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:atakan16@gmail.com)](mailto:atakan16@gmail.com)
+
+-----
 
 [![aslansutu's github activity graph](https://activity-graph.herokuapp.com/graph?username=aslansutu&theme=xcode)](https://git.io/aslansutu)
 
